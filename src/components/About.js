@@ -19,7 +19,7 @@ const About = () => {
                                 </div>
                             </div>
                         </div>
-                        <p className="about-text">Hello! I’m John Doe. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.I help you build brand for your business</p>
+                        <p className="about-text">Hello! I’m Hakan Inal. Java Developer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.I help you build brand for your business</p>
                         <a href="#contact" className="pill-button-01 to-contact">Hire Me</a>
                         <div className="social-icon">
                             <ul className="list-inline py-2 mb-0">
